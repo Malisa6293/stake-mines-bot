@@ -47,12 +47,6 @@ Automate your Mines gameplay on Stake.com with powerful betting strategies, inte
 
 ---
 
-### 🔑 Keywords
-
-`stake mines bot`, `mines bot stake`, `stake.com mines bot`, `automated mines game`, `stake mines automation`, `stake mines script`, `mines game bot`, `stake.com bot`, `crypto casino bot`, `mines gambling bot`, `auto mines stake`, `stake mines strategy`, `smart mines bot`, `stake automation tool`, `crypto gambling bot`, `stake.com automation`, `mines auto cashout`, `martingale mines bot`, `stake mines predictor`, `gambling bot stake`, `automated casino bot`, `stake mines grinder`, `mines betting bot`
-
----
-
 ## 📊 Available Strategies
 
 | Strategy       | Risk Level | Win Rate Focus     | Best Use Case             |
@@ -126,5 +120,11 @@ A: Yes. The bot is actively maintained and updated when Stake.com changes the ga
 Still have questions?
 
 Feel free to open an Issue in this repository.
+
+---
+
+### 🔑 Keywords
+
+`stake mines bot`, `mines bot stake`, `stake.com mines bot`, `automated mines game`, `stake mines automation`, `stake mines script`, `mines game bot`, `stake.com bot`, `crypto casino bot`, `mines gambling bot`, `auto mines stake`, `stake mines strategy`, `smart mines bot`, `stake automation tool`, `crypto gambling bot`, `stake.com automation`, `mines auto cashout`, `martingale mines bot`, `stake mines predictor`, `gambling bot stake`, `automated casino bot`, `stake mines grinder`, `mines betting bot`
 
 ---
