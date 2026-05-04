@@ -3,17 +3,13 @@
 ---
 
 <div align="center">
-
-  <a href="https://github.com/yourusername/stake-mines-bot/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD-00C853?style=for-the-badge&logo=download&logoColor=white&color=00C853" height="60">
-  </a>
   
   <a href="https://github.com/yourusername/stake-mines-bot/stargazers">
     <img src="https://img.shields.io/badge/⭐_STAR-212121?style=for-the-badge&logo=github&logoColor=white" height="60">
   </a>
   
   <a href="https://t.me/yourbot">
-    <img src="https://img.shields.io/badge/🚀_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" height="60">
+    <img src="https://img.shields.io/badge/🚀_Telegram-Bot229ED9?style=for-the-badge&logo=telegram&logoColor=white" height="60">
   </a>
 
 </div>
