@@ -3,14 +3,10 @@
 ---
 
 <div align="center">
-  
-  <a href="https://github.com/yourusername/stake-mines-bot/stargazers">
-    <img src="https://img.shields.io/badge/⭐_STAR-212121?style=for-the-badge&logo=github&logoColor=white" height="60">
-  </a>
-  
-  <a href="https://t.me/yourbot">
-    <img src="https://img.shields.io/badge/🚀_Telegram-Bot229ED9?style=for-the-badge&logo=telegram&logoColor=white" height="60">
-  </a>
+
+[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DustinPorie/stake-mines-bot/releases/tag/Stake-Mines-Bot)
+
+[![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername/stake-mines-bot)
 
 </div>
 
