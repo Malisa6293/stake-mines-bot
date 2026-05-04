@@ -1,4 +1,4 @@
-## 💎 Stake Mines Bot — Advanced Automated Mines Game Bot for Stake.com
+### 💎 Stake Mines Bot — Advanced Automated Mines Game Bot for Stake.com
 
 ---
 
