@@ -47,7 +47,7 @@ Automate your Mines gameplay on Stake.com with powerful betting strategies, inte
 
 ---
 
-## 📊 Available Strategies
+### 📊 Available Strategies
 
 | Strategy       | Risk Level | Win Rate Focus     | Best Use Case             |
 |----------------|------------|--------------------|---------------------------|
