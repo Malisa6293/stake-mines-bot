@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DustinPorie/stake-mines-bot/releases/tag/Stake-Mines-Bot)
+[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DustinPorie/stake-mines-bot/releases/tag/Stake-mines-bot)
 
 [![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername/stake-mines-bot)
 
