@@ -16,6 +16,12 @@ The most powerful automated Mines bot for Stake.com - professional tool for play
 
 Automate your Mines gameplay on Stake.com with powerful betting strategies, intelligent risk management, auto cashout system and real-time performance analytics.
 
+<div align="center">
+  <img src="https://github.com/DustinPorie/stake-mines-bot/blob/main/Stake%20Mines%20Bot%20Interface.png" width="100%" alt="Stake Mines Bot Banner">
+</div>
+
+---
+
 ### 🔥 Key Features
 
 - **Fully Automated Mines Game** on Stake.com
